@@ -25,6 +25,7 @@ run_worker_first = [
 [[d1_databases]]
 binding = "DB"
 database_name = "inkstone-db"
+database_id = "e8dd5a2a-aa85-4109-a0b7-01575b4c7ddc"
 
 [[r2_buckets]]
 binding = "FILES"
